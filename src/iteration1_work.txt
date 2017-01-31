@@ -1,0 +1,12 @@
+TeamAxeEdge
+
+Trevor Riles - riles006
+Isaac Martin - mart2932
+Yanbang Liu - liux1366
+
+Division of labor:
+All three members of the group played key roles in producing the code for iteration 1.
+Yanbang wrote the data structures and routines that handled scanning and storing data correctly.  The bulk of the functions in scanner.cpp, apart from the regular expressions, are his work.  
+Trevor wrote all of the assessment tests for this iteration, found in scanner_tests.h.  Each of these tests were written to test a specific instance of each potential input to the scanner, including lexical errors and empty input.
+Isaac wrote the regular expressions for the token lexemes, found in scanner.cpp.  These are stored in an array such that each regex can be accessed by the value of its corresponding tokenEnumType.
+All of these tasks were handled independently.  The debugging and testing process was handled by all three members of the group collaboratively.

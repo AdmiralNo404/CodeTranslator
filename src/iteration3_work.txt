@@ -1,0 +1,10 @@
+TeamAxeEdge
+
+Trevor Riles - riles006
+Isaac Martin - mart2932
+Yanbang Liu - liux1366
+
+Division of work:
+
+Isaac and Yanbang wrote about half the of the AST classes each (AST.h), with Yanbang writing for the Expr class and its subclasses and Isaac handling most of the rest.  Isaac wrote all of the unparse methods for each AST class and Yanbang wrote their constructors.
+Yanbang integrated the AST class system into Parser.cpp and wrote most of our test cases.  Isaac created the UML diagram for writing assignment 2 with help from Yanbang.  Isaac and Trevor divided the commenting of AST.h, AST.cpp and Parser.cpp about evenly.  Debugging the code was a collaborative effort with both Isaac and Yanbang playing equal parts.

@@ -1,0 +1,9 @@
+TeamAxeEdge
+
+Trevor Riles - riles006
+Isaac Martin - mart2932
+Yanbang Liu - liux1366
+
+Division of labor:
+The task of updating the makefile was handled by Yanbang, done on his own time as the group could not come up with a good time to meet, however he made no indication that he intended to do this independently.
+Isaac handled the tagging and updating of the current version of the repository, and the writing of the division of labor statement.

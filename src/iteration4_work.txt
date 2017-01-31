@@ -1,0 +1,9 @@
+TeamAxeEdge
+
+Trevor Riles - riles006
+Isaac Martin - mart2932
+Yanbang Liu - liux1366
+
+Division of work:
+
+Trevor started working on AST classes with a small progress (~10%). Yanbang wrote over half (60%) of the cppCode() function for the AST class in AST.h and AST.cpp, Isaac finished the rest of the cppCode(30%). Yanbang started working on MyList class first, and finished more than half (60%) of it's functions. Isaac then finished the rest of MyList class (40%), including the hardest partes we think (Zip, Map, Filter, etc.). Yanbang and Isaac degugged the code together.
